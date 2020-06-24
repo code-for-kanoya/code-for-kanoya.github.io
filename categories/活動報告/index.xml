@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>活動報告 on Code for Kagoshima</title>
+    <link>https://code-for-kagoshima.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/</link>
+    <description>Recent content in 活動報告 on Code for Kagoshima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 18 Jun 2020 11:48:54 +0900</lastBuildDate>
+    
+	<atom:link href="https://code-for-kagoshima.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code for Kagoshima 始動！</title>
+      <link>https://code-for-kagoshima.github.io/blog/code-for-kagoshima-%E5%A7%8B%E5%8B%95/</link>
+      <pubDate>Thu, 18 Jun 2020 11:48:54 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/code-for-kagoshima-%E5%A7%8B%E5%8B%95/</guid>
+      <description>できる事から始めよう 写真協力：公益社団法人　鹿児島県観光連盟
+Code for Kagoshima を発足いたしました！
+Code for XX とはITで地域課題の解決に挑戦する団体であり、全国に様々な団体があります。 （Code for XX についての詳細はここでは省略いたします。興味のある方はCode for Japanの公式サイトをご覧ください。）
+昨今の新型コロナウイルス禍ではCode for Japan をはじめ各地のCode for XX の活動により、感染者数等を可視化したサイトやテイクアウト支援アプリなど様々な活動が迅速に行われました。
+そのような中、鹿児島県におきましても行政の頼るだけでなく、市民が自ら課題解決を目指すCode for XX の必要性を強く感じ、当団体を設立いたしました。
+今後、定期的に活動を続け、鹿児島県の地域課題解決に少しでも寄与できるように邁進したいと思います。
+どうぞよろしくお願いいたします。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Code for Kagoshima</title>
+    <link>https://code-for-kagoshima.github.io/tags/index/</link>
+    <description>Recent content in index on Code for Kagoshima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    
+	<atom:link href="https://code-for-kagoshima.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://code-for-kagoshima.github.io/blog/</link>
+      <pubDate>Thu, 18 Jun 2020 11:48:54 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://code-for-kagoshima.github.io/projects/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
