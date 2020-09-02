@@ -6,10 +6,19 @@
     <description>Recent content in 活動報告 on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2020 08:53:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 13:49:27 +0900</lastBuildDate>
     
 	<atom:link href="https://code-for-kagoshima.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C4K会議_第5回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC5%E5%9B%9E/</link>
+      <pubDate>Wed, 02 Sep 2020 13:49:27 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC5%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました🚗協議事項は以下のとおり。①「コードの力で」という理念に惹かれて、ミーティングに参加したいという方が！大歓迎です🚙②コードの力で解決してほしい課題の募集フォームには、まだ応募なし。。。お待ちしています🚌③BODIK ODCS（九州のオープンデータカタログサイト）からオープンデータをクローリングしてみたのですが、以下の問題が検出されました🏎前途多難です🏍・データセット名が統一されていない🚓・データセット名を省略しているもの、日付のみのもの、英数字のもの等、ファイル名が統一されていない🚑・対象のデータセットは無いが、データセットの説明やファイル名に、検索に使用したデータセット名と似た言葉が含まれるデータセットがヒットする🚒・検索に使用したデータセット名を含むデータセットとデータセットの説明やファイル名に、検索に使用したデータセット名と似た言葉が含まれるデータセットがヒットする🚐・施設の種類ごとにデータセットが存在するため、検索に使用したデータセット名を含むデータセットをすべてダウンロードするようにした方がいいのか🚚・検索に使用したデータセット名を含むファイル名のファイルと、英字のみのファイルが存在している🚛・ファイル名が同じで、日付部分が違うファイルが存在している🚜・ファイル形式が異なる場合、どちらも取得するのか🛴・施設の種類ごとにファイルが存在するため、検索に使用したデータセット名を含むファイル名のファイルをすべてダウンロードするようにした方がいいのか🚲・検索に使用したデータセット名を含むデータセットとデータセットの説明やファイル名に、検索に使用したデータセット名と似た言葉が含まれるデータセットがヒットする🛵</description>
+    </item>
     
     <item>
       <title>C4K会議_第4回</title>
