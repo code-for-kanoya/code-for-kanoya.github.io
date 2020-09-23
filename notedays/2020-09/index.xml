@@ -6,10 +6,19 @@
     <description>Recent content in 2020-09 on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2020 13:49:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 14:10:27 +0900</lastBuildDate>
     
 	<atom:link href="https://code-for-kagoshima.github.io/notedays/2020-09/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C4K会議_第6回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC6%E5%9B%9E/</link>
+      <pubDate>Wed, 16 Sep 2020 14:10:27 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC6%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①気候危機問題に取り組んでおられる方から、当活動について話を聞きたいという問合せが😲大歓迎です😉②BODIK ODCS（九州のオープンデータカタログサイト）からオープンデータをクローリングしてアプリを作る取組については、少しずつ進んでいます😊③先日の台風10号によって九州各地に被害がありました😔豪雨や台風の大型化が温暖化によるものであることは明らかで、今後は環境問題にも取り組んでいきたいと考えています😤</description>
+    </item>
     
     <item>
       <title>C4K会議_第5回</title>
