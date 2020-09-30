@@ -6,10 +6,19 @@
     <description>Recent content in 2020-09 on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:10:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2020 22:29:27 +0900</lastBuildDate>
     
 	<atom:link href="https://code-for-kagoshima.github.io/notedays/2020-09/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C4K会議_第7回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC7%E5%9B%9E/</link>
+      <pubDate>Tue, 29 Sep 2020 22:29:27 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC7%E5%9B%9E/</guid>
+      <description>昨日、定例ミーティングを開催しました😃今回は1名のみWEBで、他のメンバーはmarkMEIZANに集まりました😮協議事項は以下のとおり🙂①オープンデータを集計してマップにプロットするアプリの開発状況を確認しました🧐要求仕様は充足できていました😊②しかしこのアプリが完成すればプロジェクトが完了するわけではありません😕これが今後の展開の基盤になっていくため、汎用性や拡張性が担保できていることが重要です😉③更に、今回開発した資産は私たちだけが使うわけではなく、他のCode forにも無償提供することで、スケールすることを期待しています🤠そのために今回は慎重に開発していきます😤</description>
+    </item>
     
     <item>
       <title>C4K会議_第6回</title>
