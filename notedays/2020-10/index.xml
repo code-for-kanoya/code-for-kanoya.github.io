@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020-10 on Code for Kagoshima</title>
+    <link>https://code-for-kagoshima.github.io/notedays/2020-10/</link>
+    <description>Recent content in 2020-10 on Code for Kagoshima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 15 Oct 2020 17:42:39 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/notedays/2020-10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第8回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC8%E5%9B%9E/</link>
+      <pubDate>Thu, 15 Oct 2020 17:42:39 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC8%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃今回は肝付から新たに1名、福岡から1名のメンバーが参加してくれました😮協議事項は以下のとおり🙂①今回はアプリの開発について進捗はありませんでした🧐メンバーの本業の繁閑状況に配慮しながらやっていければ良いと思っています😊②そこでオープンデータの内容について詳しく見ていくことにしました😕まずはファイル名が様々であることについて、データセット名と同一でなくてもダウンロードして問題ないことを確認しました😉③次に、1つのデータセットに対して複数のファイルがアップロードされていることについて、ルール違反であることを確認しました🤠どれが正しいファイルであるかは機械判別できないため、最上段のファイルをダウンロードして内容を確認することとしました😤今回新たに参加してくれたメンバーからの意見が非常に助けになり、感謝です😘</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,15 +5,11 @@
     <link>https://code-for-kagoshima.github.io/tags/index/</link>
     <description>Recent content in index on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    
-	<atom:link href="https://code-for-kagoshima.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja</language><atom:link href="https://code-for-kagoshima.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
       <link>https://code-for-kagoshima.github.io/blog/</link>
-      <pubDate>Tue, 29 Sep 2020 22:29:27 +0900</pubDate>
+      <pubDate>Thu, 15 Oct 2020 17:42:39 +0900</pubDate>
       
       <guid>https://code-for-kagoshima.github.io/blog/</guid>
       <description></description>
