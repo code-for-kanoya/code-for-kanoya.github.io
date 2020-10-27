@@ -6,7 +6,16 @@
     <description>Recent content in 活動報告 on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2020 17:42:39 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 14:59:44 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第9回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC9%E5%9B%9E/</link>
+      <pubDate>Tue, 27 Oct 2020 14:59:44 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC9%E5%9B%9E/</guid>
+      <description>昨日、定例ミーティングを開催しました😃今回も福岡から1名のメンバーが参加してくれました😮協議事項は以下のとおり🙂①アプリの開発は着々と進んでいます🧐OpenStreetMap上でデータを可視化できるようになっていたので、とても汎用性が高そうです😊②オープンデータのクローリング方法も一部変更しました🤠その結果、九州の自治体数234に対して88自治体のオープンデータが取得できるようになりました😉とは言っても、やはり九州はオープンデータ後進地域ですね😤③取得できたデータ数は、本来1,320あるべきところ、188でした😕44件はエラー、1,088件はそもそもアップロードされていないという状況😢しかし取得できたデータでできるところまでやるしかありませんので、頑張ります😘</description>
+    </item>
+    
     <item>
       <title>C4K会議_第8回</title>
       <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC8%E5%9B%9E/</link>
