@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2020 14:59:44 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 10:20:35 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第10回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</link>
+      <pubDate>Wed, 11 Nov 2020 10:20:35 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①アプリの開発は進んだのですが、動作する速度が出ていません😕コーディングを見直す必要がありそうです🧐②オープンデータのクローリング方法も試行錯誤しているのですが、取得できるデータセットの数があまり増えません😢原因を探るために手動でBODIKを覗いてみると、各データセットに対する命名方法に問題がありそうです🤨③例えば鉄道駅の一覧を取得したい場合🤠「鉄道駅」と親切に命名してくれているものはないので、「駅」で検索するしかありません😔そうすると、道の駅やら赤ちゃんの駅やら不要なデータセットが多数引っ掛かってしまいます😲解決策を検討していきたいと思います🤯</description>
+    </item>
+    
     <item>
       <title>C4K会議_第9回</title>
       <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC9%E5%9B%9E/</link>
