@@ -6,7 +6,16 @@
     <description>Recent content in 2020 on Code for Kagoshima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2020 10:20:35 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/notedays/2020/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 17:30:27 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/notedays/2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第11回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC11%E5%9B%9E/</link>
+      <pubDate>Fri, 27 Nov 2020 17:30:27 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC11%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①現在開発しているアプリは動作速度が課題でした😕今回の進捗を確認したところ、まだ改善の余地がありそうです🧐②オープンデータは特定の自治体のもののみ収集したいというケースは稀だと思います🤨BODIKのようなカタログサイトに全ての自治体分が集約されることが望ましいのですが、独自にカタログサイトを立てている自治体が散見されます😢③一般市民からすれば理解できないのですが、自治体には何らかの理由があるのかもしれません😔そこで、九州の全市町村にアンケート調査を行うことにしました🤠これから調査項目の作成に取り掛かります😲</description>
+    </item>
+    
     <item>
       <title>C4K会議_第10回</title>
       <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</link>
