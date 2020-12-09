@@ -1,2 +1,2 @@
-# code-for-kagoshima.github.io
-Code for Kagoshima 公式HP
+# code-for-kanoya.github.io
+Code for Kanoya 公式HP

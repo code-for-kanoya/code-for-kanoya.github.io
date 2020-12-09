@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2020-11 on Code for Kagoshima</title>
-    <link>https://code-for-kagoshima.github.io/notedays/2020-11/</link>
-    <description>Recent content in 2020-11 on Code for Kagoshima</description>
+    <title>2020-11 on Code for Kanoya</title>
+    <link>https://code-for-kanoya.github.io/notedays/2020-11/</link>
+    <description>Recent content in 2020-11 on Code for Kanoya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2020 17:30:27 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/notedays/2020-11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 17:30:27 +0900</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/notedays/2020-11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C4K会議_第11回</title>
-      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC11%E5%9B%9E/</link>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC11%E5%9B%9E/</link>
       <pubDate>Fri, 27 Nov 2020 17:30:27 +0900</pubDate>
       
-      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC11%E5%9B%9E/</guid>
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC11%E5%9B%9E/</guid>
       <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①現在開発しているアプリは動作速度が課題でした😕今回の進捗を確認したところ、まだ改善の余地がありそうです🧐②オープンデータは特定の自治体のもののみ収集したいというケースは稀だと思います🤨BODIKのようなカタログサイトに全ての自治体分が集約されることが望ましいのですが、独自にカタログサイトを立てている自治体が散見されます😢③一般市民からすれば理解できないのですが、自治体には何らかの理由があるのかもしれません😔そこで、九州の全市町村にアンケート調査を行うことにしました🤠これから調査項目の作成に取り掛かります😲</description>
     </item>
     
     <item>
       <title>C4K会議_第10回</title>
-      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</link>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</link>
       <pubDate>Wed, 11 Nov 2020 10:20:35 +0900</pubDate>
       
-      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</guid>
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC10%E5%9B%9E/</guid>
       <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①アプリの開発は進んだのですが、動作する速度が出ていません😕コーディングを見直す必要がありそうです🧐②オープンデータのクローリング方法も試行錯誤しているのですが、取得できるデータセットの数があまり増えません😢原因を探るために手動でBODIKを覗いてみると、各データセットに対する命名方法に問題がありそうです🤨③例えば鉄道駅の一覧を取得したい場合🤠「鉄道駅」と親切に命名してくれているものはないので、「駅」で検索するしかありません😔そうすると、道の駅やら赤ちゃんの駅やら不要なデータセットが多数引っ掛かってしまいます😲解決策を検討していきたいと思います🤯</description>
     </item>
     
