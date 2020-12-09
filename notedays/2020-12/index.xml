@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020-12 on Code for Kagoshima</title>
+    <link>https://code-for-kagoshima.github.io/notedays/2020-12/</link>
+    <description>Recent content in 2020-12 on Code for Kagoshima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 09 Dec 2020 14:53:54 +0900</lastBuildDate><atom:link href="https://code-for-kagoshima.github.io/notedays/2020-12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第12回</title>
+      <link>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC12%E5%9B%9E/</link>
+      <pubDate>Wed, 09 Dec 2020 14:53:54 +0900</pubDate>
+      
+      <guid>https://code-for-kagoshima.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC12%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①現在開発しているアプリは動作速度が課題でした😕今回の進捗を確認したところ、問題ないレベルまで改善していました🧐②今後は国が自治体に対して公開することを推奨している14のデータセットの中身まで見ることができるように機能を拡充していきます🤨③九州の全市町村向けアンケート調査については、業務都合でまだ進捗がありませんでした😢ぼちぼちやっていきます🤠</description>
+    </item>
+    
+  </channel>
+</rss>

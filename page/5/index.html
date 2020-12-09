@@ -2,19 +2,19 @@
 <html lang="ja">
   <head>
   <meta charset="utf-8">
-<title>index - Code for Kagoshima</title>
+<title>Code for Kagoshima</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta name="generator" content="Hugo 0.76.5" /><meta itemprop="name" content="index">
+<meta name="generator" content="Hugo 0.76.5" /><meta itemprop="name" content="Code for Kagoshima">
 <meta itemprop="description" content="Code for Kagoshimaとはシビックテックの考えに基づき、Codeの力で地域課題の解決を目指す有志による任意団体です。 主に鹿児島県を活動域としています。">
-<meta property="og:title" content="index" />
+<meta property="og:title" content="Code for Kagoshima" />
 <meta property="og:description" content="Code for Kagoshimaとはシビックテックの考えに基づき、Codeの力で地域課題の解決を目指す有志による任意団体です。 主に鹿児島県を活動域としています。" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://code-for-kagoshima.github.io/tags/index/" />
-
+<meta property="og:url" content="https://code-for-kagoshima.github.io/" />
+<meta property="og:updated_time" content="2020-12-09T14:53:54+09:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="index"/>
+<meta name="twitter:title" content="Code for Kagoshima"/>
 <meta name="twitter:description" content="Code for Kagoshimaとはシビックテックの考えに基づき、Codeの力で地域課題の解決を目指す有志による任意団体です。 主に鹿児島県を活動域としています。"/>
 <link rel="stylesheet" href="/css/bundle.min.759e3848ea529eef056dab665b241e2af569e601ab80f68f8d4a4d002a155dd4.css" integrity="sha256-dZ44SOpSnu8FbatmWyQeKvVp5gGrgPaPjUpNACoVXdQ="><link rel="stylesheet" href="/css/add-on.css">
       <link rel="stylesheet" href="https://code-for-kagoshima.github.io/scss/add-on.min.893d63192032f31a6ef8ebbdd8f28d4d3d74f78c88d6813b2b5da1a8f0997d55.css"><link rel="icon" href="/img/main/favicon.png"type="image/png" sizes="32x32" >
@@ -25,14 +25,59 @@
   <body>
     
 
+  <div id="theme-message" style="background-color:#3c3b3b;color:#f4f4f4;margin:auto auto;padding:.25em 2em;width:75%;">
+    <p style="text-align:center;">This message, related to the development of the theme, only displays on the
+      <code>localhost</code> homepage to notify you of any important theme changes.</p>
+      <hr>
+      <h5 style="color:#f4f4f4;text-align:center;"><i class="fas fa-exclamation-triangle"></i>Version 1.1.0 - May 18, 2020<i class="fas fa-exclamation-triangle"></i></h5>
+    <p>With this version, the theme has fully implemented <strong>static search</strong> using
+<code>lunr.js</code>. That being said, a few modifications were necessary to implement this
+feature.</p>
+<p>To utilize this, or future version of <em>Hugo Future Imperfect Slim</em>, please make
+the following changes:</p>
+<ol>
+<li>Add the following to your <code>config.toml</code> before <code>[params]</code>:</li>
+</ol>
+<pre><code>...
+disableLanguages = [&quot;&quot;]
+
+[outputs]
+    home = [&quot;html&quot;, &quot;json&quot;]
+
+[params]
+...
+</code></pre><ol start="2">
+<li>
+<p>Remove the underscore from all <code>about</code> and <code>contact</code> page file names:
+<code>_index.md --&gt; index.md</code></p>
+</li>
+<li>
+<p>Add <code>layout = &quot;about&quot;</code> or <code>layout = &quot;contact&quot;</code> to all of the files you just
+just adjusted the file names for.</p>
+</li>
+</ol>
+<p>While I realize this is inconvenient, I hope that it is worth it to you in the
+long run. Thanks for using the theme, and feel free to submit issues as needed.</p>
+
+    <div style="text-align:center;">
+      <button onclick="removeBox()" class="button" style="color:#f4f4f4;margin-bottom:1em;">Close Notification Until Next Update</button>
+    </div>
+    <script>
+      if (window.location.href.indexOf('localhost:') < 1 || window.localStorage.getItem('HFIS-version') == '1.1.0') {
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+      function removeBox() {
+        window.localStorage.setItem('HFIS-version', '1.1.0');
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+    </script>
+  </div>
 <header id="site-header">
   <nav id="site-nav">
     <h1 class="nav-title">
       <a href="/" class="nav">
         
-          
-            タグ
-          
+          Code for Kagoshima
         
       </a>
     </h1>
@@ -100,37 +145,37 @@
 
   
     
-    <a href="//twitter.com/share?text=index&amp;url=https%3a%2f%2fcode-for-kagoshima.github.io%2ftags%2findex%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+    <a href="//twitter.com/share?text=Code%20for%20Kagoshima&amp;url=https%3a%2f%2fcode-for-kagoshima.github.io%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
         <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p>
       </a>
   
 
   
-      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fcode-for-kagoshima.github.io%2ftags%2findex%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fcode-for-kagoshima.github.io%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
         <i class="fab fa-facebook"></i><p>&nbsp;Facebook</p>
         </a>
   
 
   
-    <a href="//www.reddit.com/submit?url=https%3a%2f%2fcode-for-kagoshima.github.io%2ftags%2findex%2f&amp;title=index" target="_blank" rel="noopener" class="nav share-btn reddit">
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fcode-for-kagoshima.github.io%2f&amp;title=Code%20for%20Kagoshima" target="_blank" rel="noopener" class="nav share-btn reddit">
           <i class="fab fa-reddit-alien"></i><p>&nbsp;Reddit</p>
         </a>
   
 
   
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fcode-for-kagoshima.github.io%2ftags%2findex%2f&amp;title=index" target="_blank" rel="noopener" class="nav share-btn linkedin">
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fcode-for-kagoshima.github.io%2f&amp;title=Code%20for%20Kagoshima" target="_blank" rel="noopener" class="nav share-btn linkedin">
             <i class="fab fa-linkedin"></i><p>&nbsp;LinkedIn</p>
           </a>
   
 
   
-        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fcode-for-kagoshima.github.io%2ftags%2findex%2f&amp;description=index" target="_blank" rel="noopener" class="nav share-btn pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fcode-for-kagoshima.github.io%2f&amp;description=Code%20for%20Kagoshima" target="_blank" rel="noopener" class="nav share-btn pinterest">
           <i class="fab fa-pinterest-p"></i><p>&nbsp;Pinterest</p>
         </a>
   
 
   
-        <a href="mailto:?subject=%e3%81%93%e3%81%ae%e6%8a%95%e7%a8%bf%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%e3%81%99%e3%82%8b %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fcode-for-kagoshima.github.io%2ftags%2findex%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+        <a href="mailto:?subject=%e3%81%93%e3%81%ae%e6%8a%95%e7%a8%bf%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%e3%81%99%e3%82%8b %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fcode-for-kagoshima.github.io%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
           <i class="fas fa-envelope"></i><p>&nbsp;Email</p>
         </a>
   
@@ -153,8 +198,6 @@
     <footer>
       <ul class="socnet-icons">
         
-    <li><a href="/tags/index/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
-
 
         <li><a href="//github.com/code-for-kagoshima/code-for-kagoshima.github.io" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
 
@@ -211,32 +254,44 @@
   <header>
   <div class="title">
     
-      <h2><a href="/blog/">Posts</a></h2>
+      <h2><a href="/blog/code-for-kagoshima-%E5%A7%8B%E5%8B%95/">Code for Kagoshima 始動！</a></h2>
     
+    
+      <p>活動開始！</p>
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2020-12-09 14:53:54 &#43;0900 JST">
-      2020-12-09
+    <time class="published" datetime="2020-06-18 11:48:54 &#43;0900 JST">
+      2020-06-18
     </time>
     <span class="author">Code for Kagoshima</span>
     
-      <p>0 分で読めます</p>
+      <p>1 分で読めます</p>
     
   </div>
 </header>
 
   
+  <a href="/blog/code-for-kagoshima-%E5%A7%8B%E5%8B%95/" class="image featured">
+    
+      <img src="https://code-for-kagoshima.github.io/img/main/sakurajima.jpg" alt="">
+    
+  </a>
+
 
   
-  
+  <p>写真協力：公益社団法人　鹿児島県観光連盟</p>
   <footer>
-    <a href="/blog/" class="button big">続きを読む</a>
+    <a href="/blog/code-for-kagoshima-%E5%A7%8B%E5%8B%95/" class="button big">続きを読む</a>
     <ul class="stats">
   <li class="categories">
     <ul>
     
-      <li>None</li>
+      
+        
+          <li><a class="article-terms-link" href="/categories/%e6%b4%bb%e5%8b%95%e5%a0%b1%e5%91%8a/">活動報告</a></li>
+        
+      
     
     </ul>
   </li>
@@ -245,57 +300,7 @@
     
       
         
-          <li><a class="article-terms-link" href="/tags/index/">index</a></li>
-        
-      
-    
-    </ul>
-  </li>
-</ul>
-
-  </footer>
-</article>
-
-  
-    <article class="post">
-  <header>
-  <div class="title">
-    
-      <h2><a href="/projects/">Projects</a></h2>
-    
-    
-  </div>
-  <div class="meta">
-    <time class="published" datetime="2020-04-22 00:00:00 &#43;0000 UTC">
-      2020-04-22
-    </time>
-    <span class="author">Code for Kagoshima</span>
-    
-      <p>0 分で読めます</p>
-    
-  </div>
-</header>
-
-  
-
-  
-  
-  <footer>
-    <a href="/projects/" class="button big">続きを読む</a>
-    <ul class="stats">
-  <li class="categories">
-    <ul>
-    
-      <li>None</li>
-    
-    </ul>
-  </li>
-  <li class="tags">
-    <ul>
-    
-      
-        
-          <li><a class="article-terms-link" href="/tags/index/">index</a></li>
+          <li><a class="article-terms-link" href="/tags/%e3%82%bf%e3%82%b0/">タグ</a></li>
         
       
     
@@ -309,6 +314,8 @@
   
   
 <div class="pagination">
+  
+    <a href="/page/4/" class="button"><div class="previous"><div>Previous</div></div></a>
   
   
 </div>
@@ -430,8 +437,6 @@
   
       <ul class="socnet-icons">
         
-    <li><a href="/tags/index/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
-
 
         <li><a href="//github.com/code-for-kagoshima/code-for-kagoshima.github.io" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
 
