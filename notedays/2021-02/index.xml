@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021-02 on Code for Kanoya</title>
+    <link>https://code-for-kanoya.github.io/notedays/2021-02/</link>
+    <description>Recent content in 2021-02 on Code for Kanoya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 02 Feb 2021 16:29:02 +0900</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/notedays/2021-02/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第16回</title>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC16%E5%9B%9E/</link>
+      <pubDate>Tue, 02 Feb 2021 16:29:02 +0900</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC16%E5%9B%9E/</guid>
+      <description>昨日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂
+①現在開発しているアプリはかなり完成度が高まりました😕後は読み込むデータセットが規定どおりに作成されているかどうかです🧐
+②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを実施する準備をしています🤨
+③今回ほぼ完成しました😲いよいよ今週から各市町村の企画部門に対して依頼しますので、ご対応のほどよろしくお願いします😆</description>
+    </item>
+    
+  </channel>
+</rss>
