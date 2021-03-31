@@ -6,7 +6,19 @@
     <description>Recent content in 活動報告 on Code for Kanoya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Mar 2021 04:58:48 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 05:57:56 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第20回</title>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC20%E5%9B%9E/</link>
+      <pubDate>Wed, 31 Mar 2021 05:57:56 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC20%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂
+①現在開発しているアプリのデザインを微調整中😕一般公開するための環境も構築中です🧐
+②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを行いました🤨
+③1箇月間の回答期間を設けましたが、233団体中42団体からしか回答をいただけませんでした（回収率18%）😢読み込めるデータセットはほとんど増やすことができませんでしたが、リリースしたら改めて全団体に連絡したいと思います😗</description>
+    </item>
+    
     <item>
       <title>C4K会議_第19回</title>
       <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC19%E5%9B%9E/</link>
