@@ -6,7 +6,19 @@
     <description>Recent content in 2021 on Code for Kanoya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Apr 2021 01:37:04 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/notedays/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 02:36:37 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/notedays/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第22回</title>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC22%E5%9B%9E/</link>
+      <pubDate>Fri, 30 Apr 2021 02:36:37 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC22%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂
+①現在開発しているWEBサービスについては完成しました🧐もうすぐ一般公開できますので、改めてお知らせします😕
+②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを行いました🤨
+③この結果から各団体がオープンデータに取り組んでいる度合いを点数化しました😗それを全団体に通知するとともに、WEBサービスのURLもお知らせしますので、楽しみにお待ちください😋</description>
+    </item>
+    
     <item>
       <title>C4K会議_第21回</title>
       <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC21%E5%9B%9E/</link>
@@ -85,7 +97,7 @@
       <pubDate>Tue, 19 Jan 2021 16:26:17 +0900</pubDate>
       
       <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC15%E5%9B%9E/</guid>
-      <description>昨日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①現在開発しているアプリの進捗は今回はありません😕本業を優先しながらボチボチやっていきます🧐②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを実施する準備をしています🤨③今回完成かと思われましたが、1データセット当たり10問作られていたため、何と140問に膨らんでいました😲これでは回答負荷が高過ぎますので、スリム化を検討することとしました😢</description>
+      <description>昨日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂 ①現在開発しているアプリの進捗は今回はありません😕本業を優先しながらボチボチやっていきます🧐 ②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを実施する準備をしています🤨 ③今回完成かと思われましたが、1データセット当たり10問作られていたため、何と140問に膨らんでいました😲これでは回答負荷が高過ぎますので、スリム化を検討することとしました😢 </description>
     </item>
     
     <item>
@@ -94,7 +106,7 @@
       <pubDate>Wed, 06 Jan 2021 11:26:17 +0900</pubDate>
       
       <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC14%E5%9B%9E/</guid>
-      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂①現在開発しているアプリの進捗は今回はありません😕本業を優先しながらボチボチやっていきます🧐②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを実施する準備をしています🤨今回レビューしたところ、もうすぐ実施できそうですので、市町村の皆様におかれましては、よろしくお願いします😋</description>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂 ①現在開発しているアプリの進捗は今回はありません😕本業を優先しながらボチボチやっていきます🧐 ②国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対してアンケートを実施する準備をしています🤨今回レビューしたところ、もうすぐ実施できそうですので、市町村の皆様におかれましては、よろしくお願いします😋 </description>
     </item>
     
   </channel>
