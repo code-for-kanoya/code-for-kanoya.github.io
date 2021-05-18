@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021-05 on Code for Kanoya</title>
+    <link>https://code-for-kanoya.github.io/notedays/2021-05/</link>
+    <description>Recent content in 2021-05 on Code for Kanoya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 17 May 2021 05:15:39 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/notedays/2021-05/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第23回</title>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC23%E5%9B%9E/</link>
+      <pubDate>Mon, 17 May 2021 05:15:39 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC23%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂
+①国が市町村に対して公開することを推奨しているデータセットを探そうとしても見つからないものが散見されるため、九州の全市町村に対して改善要求の発信をしました🤨
+②現在開発しているWEBサービスを一般公開しました🧐是非使ってみた感想などをいただければと思います😆 https://opendata-map.gcom-lab.com/
+③このWEBサービスのソースコードを公開する準備を進めています😋他のCode forでも同様の取組が進むといいなと思います😘</description>
+    </item>
+    
+  </channel>
+</rss>
