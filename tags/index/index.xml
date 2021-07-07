@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://code-for-kanoya.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>https://code-for-kanoya.github.io/projects/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://code-for-kanoya.github.io/blog/</link>
       <pubDate>Mon, 05 Jul 2021 02:49:02 +0000</pubDate>
       
       <guid>https://code-for-kanoya.github.io/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://code-for-kanoya.github.io/projects/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://code-for-kanoya.github.io/projects/</guid>
       <description></description>
     </item>
     

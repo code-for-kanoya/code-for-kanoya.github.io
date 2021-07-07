@@ -6,7 +6,18 @@
     <description>Recent content in projects on Code for Kanoya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>オープンデータはどけ行ったけ？-WHERE DOES MY DATA GO?-</title>
+      <link>https://code-for-kanoya.github.io/projects/opendata-map/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/projects/opendata-map/</guid>
+      <description>オープンデータはどけ行ったけ？-WHERE DOES MY DATA GO?- オープンデータの利活用を推進するため、九州のオープンデータカタログサイトBODIK ODCSに 参画している団体について、国が市町村に対して公開することを推奨しているデータセットの 公開状況を採点し、マップにプロットするWEBサービスを一般公開しました。 微力ではありますが、各市区町村の推奨データセットの公開・整備状況の向上に 少しでも役立つことができればうれしく思います。
+当該サービスには下記リンクよりアクセスが可能です。
+オープンデータはどけ行ったけ？-WHERE DOES MY DATA GO?-</description>
+    </item>
+    
     <item>
       <title>コロナに負けるな！大隅飲食店応援プロジェクト｜大隅の輪</title>
       <link>https://code-for-kanoya.github.io/projects/oosumi-no-wa/</link>
