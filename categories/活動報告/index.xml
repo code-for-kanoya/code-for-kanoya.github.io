@@ -6,7 +6,19 @@
     <description>Recent content in 活動報告 on Code for Kanoya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jul 2021 00:11:18 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Aug 2021 09:45:56 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第26回</title>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC26%E5%9B%9E/</link>
+      <pubDate>Thu, 12 Aug 2021 09:45:56 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC26%E5%9B%9E/</guid>
+      <description>先日、定例ミーティングを開催しました😃協議事項は以下のとおり🙂
+①国が市町村に対して公開することを推奨しているデータセットの公開状況を採点し、マップにプロットするWEBサービスを一般公開しました🧐
+オープンデータはどけ行ったけ？-WHERE DOES MY DATA GO?-②当サービスの使い勝手改善については、少し遅れています😅本業を優先しながら、ボチボチやっていきます😋
+③自治体ではオープンデータの肝である「機械判読」についてピンと来ないという意見が多いようですので、機械判読している実際の動画を作成しました😆今後はこれを活用して理解を深めていただこうと考えています😘</description>
+    </item>
+    
     <item>
       <title>C4K会議_第25回</title>
       <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC25%E5%9B%9E/</link>
