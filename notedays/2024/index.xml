@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 on Code for Kanoya</title>
+    <link>https://code-for-kanoya.github.io/notedays/2024/</link>
+    <description>Recent content in 2024 on Code for Kanoya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 09 Apr 2024 01:04:39 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/notedays/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4K会議_第29回</title>
+      <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC29%E5%9B%9E/</link>
+      <pubDate>Tue, 09 Apr 2024 01:04:39 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC29%E5%9B%9E/</guid>
+      <description>「決算カード」をご存知でしょうか？
+決算カードは、総務省が地方自治体に対して各年度に実施した地方財政状況調査の集計結果に基づき、都道府県・市町村ごとの普通会計歳入・歳出決算額、各種財政指標等の状況について、団体ごとに１枚のカードに取りまとめたものです。
+皆さんがお住まいの自治体でも、その財政状況がどうなっているか知らないというケースは多いと思います。情報収集方法を知らない、情報収集ができていても見方が分からない、そもそも関心がない、と人それぞれでしょうが、最も簡便に知ってもらう・関心を持ってもらう方法が「決算カード」です。
+このデータは、総務省のホームページに平成27年度以降分はXLS形式で掲載されています。これをクローリングしてオープンソースのデータ可視化ツール「Metabase」に載せ替え、誰でも見られる環境を作っていきます。
+今月末頃公開する予定で作業を進めていますので、お楽しみに！</description>
+    </item>
+    
+  </channel>
+</rss>
