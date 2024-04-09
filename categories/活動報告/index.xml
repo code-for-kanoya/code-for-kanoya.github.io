@@ -6,7 +6,21 @@
     <description>Recent content in 活動報告 on Code for Kanoya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Apr 2024 01:04:39 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Apr 2024 08:59:38 +0000</lastBuildDate><atom:link href="https://code-for-kanoya.github.io/categories/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「RESAS」をご存知でしょうか？</title>
+      <link>https://code-for-kanoya.github.io/blog/resas%E3%82%92%E3%81%94%E5%AD%98%E7%9F%A5%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/</link>
+      <pubDate>Tue, 09 Apr 2024 08:59:38 +0000</pubDate>
+      
+      <guid>https://code-for-kanoya.github.io/blog/resas%E3%82%92%E3%81%94%E5%AD%98%E7%9F%A5%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/</guid>
+      <description>「RESAS」をご存知でしょうか？
+地域経済分析システム（Regional Economy Society Analyzing System）の頭文字を取った名称です。
+当システムは2015年4月27日、内閣官房（まち・ひと・しごと創生本部事務局）及び経済産業省が、産業構造や人口動態、人の流れなどに関するビッグデータを集約し、可視化するシステムとして、地方版総合戦略における基本目標・KPIの設定、PDCAサイクルの確立等を支援するためにリリースしました。
+このうち、基礎自治体に関連するデータのみをもっと簡便かつ効果的に閲覧することができるよう、「RESAS viewer」を開発しましたので、是非ご活用ください。
+https://www.gyoseiq.co.jp/institute/login.php
+データを登載してほしい自治体は、私たちにご連絡ください。LGWANからでも見られるようにして差し上げます。</description>
+    </item>
+    
     <item>
       <title>C4K会議_第29回</title>
       <link>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC29%E5%9B%9E/</link>
