@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://code-for-kanoya.github.io/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code-for-kanoya.github.io/projects/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code-for-kanoya.github.io/tags/projects/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code-for-kanoya.github.io/projects/resas-viewer/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code-for-kanoya.github.io/tags/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://code-for-kanoya.github.io/notedays/2024/</loc>
     <lastmod>2024-04-09T08:59:38+00:00</lastmod>
   </url>
@@ -14,11 +39,6 @@
   
   <url>
     <loc>https://code-for-kanoya.github.io/categories/</loc>
-    <lastmod>2024-04-09T08:59:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://code-for-kanoya.github.io/</loc>
     <lastmod>2024-04-09T08:59:38+00:00</lastmod>
   </url>
   
@@ -95,21 +115,6 @@
   <url>
     <loc>https://code-for-kanoya.github.io/blog/c4k%E4%BC%9A%E8%AD%B0_%E7%AC%AC25%E5%9B%9E/</loc>
     <lastmod>2021-07-26T00:11:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://code-for-kanoya.github.io/projects/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://code-for-kanoya.github.io/tags/projects/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://code-for-kanoya.github.io/tags/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

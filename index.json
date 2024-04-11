@@ -1,4 +1,10 @@
 [{
+    "title": "RESAS viewer",
+    "date": "2024-04-11",
+    "description": "",
+    "body": "RESAS viewer 「RESAS」をご存知でしょうか？\n地域経済分析システム（Regional Economy Society Analyzing System）の頭文字を取った名称です。\n当システムは2015年4月27日、内閣官房（まち・ひと・しごと創生本部事務局）及び経済産業省が、産業構造や人口動態、人の流れなどに関するビッグデータを集約し、可視化するシステムとして、地方版総合戦略における基本目標・KPIの設定、PDCAサイクルの確立等を支援するためにリリースしました。\nこのうち、基礎自治体に関連するデータのみをもっと簡便かつ効果的に閲覧することができるよう、「RESAS viewer」を開発しましたので、是非ご活用ください。\nhttps://www.gyoseiq.co.jp/institute/login.php\nデータを登載してほしい自治体は、私たちにご連絡ください。\n",
+    "ref": "/projects/resas-viewer/"
+  },{
     "title": "「RESAS」をご存知でしょうか？",
     "date": "2024-04-09",
     "description": "",
